@@ -1,0 +1,5 @@
+type: ananet
+name: ANANet
+weights_path: data/model/ANANet/model_best.pth
+model_build_file_path: data/model/ANANet/build_model.yaml
+device: cuda:0

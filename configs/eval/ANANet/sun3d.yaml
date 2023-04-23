@@ -1,0 +1,5 @@
+desc: configs/descriptor/none.yaml
+det: configs/detector/sift.yaml
+matcher: configs/matcher/nn.yaml
+filter: configs/filter/ANANet/ANANet.yaml
+estimator: configs/estimator/ransac_001.yaml
