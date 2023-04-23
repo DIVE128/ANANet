@@ -19,7 +19,7 @@ According to your installation path of CUDA, you may need to revise the variable
 
 1. Download the YFCC100M dataset and the SUN3D dataset from the [OANet](https://github.com/zjhthu/OANet) repository.
 
-2. Download pretrained  models from [here]() 
+2. Download pretrained  models from [here](https://drive.google.com/drive/folders/1bXe4em39dIUz37zjxb1raUi6dT6Vs16H?usp=share_link) 
 3. Unzip and arrange all files like the following.
 ```
 data/
@@ -51,11 +51,7 @@ python eval.py --name sun3d --cfg configs/eval/ANANet/sun3d.yaml
 
 ## Citation
 
-```bibtex
-@inproceedings{
 
-}
-```
 
 ## Acknowledgement
 
