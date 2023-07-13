@@ -1,5 +1,6 @@
 # Learning Second-Order Attentive Context for Efficient Correspondence Pruning (AAAI2023)
 
+## [Paper](https://doi.org/10.1609/aaai.v37i3.25431) | [Arxiv](https://doi.org/10.48550/arXiv.2303.15761) | [Model](https://drive.google.com/drive/folders/1bXe4em39dIUz37zjxb1raUi6dT6Vs16H?usp=share_link)
 
 ## Requirements & Compilation
 
@@ -50,7 +51,18 @@ python eval.py --name sun3d --cfg configs/eval/ANANet/sun3d.yaml
 
 
 ## Citation
-
+```bibtex
+@InProceedings{Ye_2023_AAAI,
+    author      ={Ye, Xinyi and Zhao, Weiyue and Lu, Hao and Cao, Zhiguo},
+    title       ={Learning Second-Order Attentive Context for Efficient Correspondence Pruning},
+    booktitle   ={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+    month       ={Jun.}, 
+    year        ={2023}, 
+    pages       ={3250-3258},
+    volume      ={37},
+    number      ={3}
+  } 
+```
 
 
 ## Acknowledgement
