@@ -52,7 +52,7 @@ python eval.py --name sun3d --cfg configs/eval/ANANet/sun3d.yaml
 
 ## Citation
 ```bibtex
-@InProceedings{Ye_2023_AAAI,
+@inproceedings{Ye_2023_AAAI,
     author      ={Ye, Xinyi and Zhao, Weiyue and Lu, Hao and Cao, Zhiguo},
     title       ={Learning Second-Order Attentive Context for Efficient Correspondence Pruning},
     booktitle   ={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
